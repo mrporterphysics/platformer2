@@ -1,1 +1,1 @@
-[Game](mrporterphysics.github.io\platformer2\index.hmtl)
+[Game](https://github.com/mrporterphysics/mrporterphysics.github.io/platformer2/index.html)
